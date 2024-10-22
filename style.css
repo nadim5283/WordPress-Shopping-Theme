@@ -1,0 +1,45 @@
+/*
+Theme Name: WordPress Shopping Theme
+Theme URI: https://wenegotiate.net
+Author: Your Name
+Author URI: https://yourwebsite.com
+Description: A custom WordPress theme for e-commerce.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: wordpress-shopping-theme
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.content-area {
+    padding: 20px;
+}
+
+aside {
+    background-color: #e2e2e2;
+    padding: 10px;
+    margin: 10px 0;
+}
